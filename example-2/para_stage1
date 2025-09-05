@@ -1,0 +1,10 @@
+10 10 50 401 301 1 41
+/path/to/vel_seam_401x301_init.bin
+/path/to/vel_seam_401x301_zero.bin
+/path/to/vel_seam_401x301_zero.bin
+/path/to/record-z.su
+/path/to/record-x.su
+/path/to/output-stage1
+10 100 0
+0 0
+1 0 0 1000

@@ -1,0 +1,10 @@
+10 10 50 376 201 1 38
+/path/to/vel_sync_376x201_init.bin
+/path/to/vel_sync_376x201_zero.bin
+/path/to/vel_sync_376x201_zero.bin
+/path/to/record-z.su
+/path/to/record-x.su
+/path/to/output-stage1
+10 100 0
+0 0
+1 0 0 1000
